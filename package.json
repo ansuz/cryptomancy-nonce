@@ -1,6 +1,6 @@
 {
   "name": "cryptomancy-nonce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nonce helpers for cryptomancy",
   "main": "index.js",
   "scripts": {
