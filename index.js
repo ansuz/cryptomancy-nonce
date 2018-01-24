@@ -2,7 +2,7 @@ var Nonce = module.exports;
 
 Nonce.create = function () {
     var n = new Uint8Array(24);
-    for (var i = 0; i < 24; i++) { n[i] = 24; }
+    for (var i = 0; i < 24; i++) { n[i] = 0; }
     return n;
 };
 
