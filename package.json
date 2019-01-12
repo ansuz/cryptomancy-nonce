@@ -1,10 +1,10 @@
 {
   "name": "cryptomancy-nonce",
-  "version": "1.0.2",
-  "description": "nonce helpers for cryptomancy",
+  "version": "1.0.3",
+  "description": "nonce helpers for cryptomancy, the toy crypto suite",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test.js"
   },
   "keywords": [
     "cryptomancy"
