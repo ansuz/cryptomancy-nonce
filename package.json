@@ -1,6 +1,6 @@
 {
   "name": "cryptomancy-nonce",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nonce helpers for cryptomancy, the toy crypto suite",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
     "cryptomancy"
   ],
   "author": "ansuz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansuz/cryptomancy-nonce.git"
+  }
 }
